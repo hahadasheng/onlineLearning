@@ -1,0 +1,29 @@
+package com.xuecheng.manage_course.controller;
+
+import com.xuecheng.api.course.CategoryControllerApi;
+import com.xuecheng.framework.domain.course.ext.CategoryNode;
+import com.xuecheng.manage_course.service.CategoryService;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+/**
+ * @author Liucheng
+ * @date 2019/4/18 9:28
+ */
+@RestController
+@RequestMapping("/category")
+public class CategoryController implements CategoryControllerApi {
+
+    @Autowired
+    public CategoryService categoryService;
+    /**
+     * 查询课程分类列表
+     * @return
+     */
+    @Override
+    @RequestMapping("/list")
+    public CategoryNode findList() {
+        return categoryService.findList();
+    }
+}

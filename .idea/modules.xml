@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/a_markdown/a_markdown.iml" filepath="$PROJECT_DIR$/a_markdown/a_markdown.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-fastDFS/test-fastDFS.iml" filepath="$PROJECT_DIR$/test-fastDFS/test-fastDFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-rabbitmq-consumer/test-rabbitmq-consumer.iml" filepath="$PROJECT_DIR$/test-rabbitmq-consumer/test-rabbitmq-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-rabbitmq-producer/test-rabbitmq-producer.iml" filepath="$PROJECT_DIR$/test-rabbitmq-producer/test-rabbitmq-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xc-framework-common/xc-framework-common.iml" filepath="$PROJECT_DIR$/xc-framework-common/xc-framework-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xc-framework-model/xc-framework-model.iml" filepath="$PROJECT_DIR$/xc-framework-model/xc-framework-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xc-framework-parent/xc-framework-parent.iml" filepath="$PROJECT_DIR$/xc-framework-parent/xc-framework-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xc-framework-utils/xc-framework-utils.iml" filepath="$PROJECT_DIR$/xc-framework-utils/xc-framework-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xc-service-api/xc-service-api.iml" filepath="$PROJECT_DIR$/xc-service-api/xc-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xc-service-manage-cms/xc-service-manage-cms.iml" filepath="$PROJECT_DIR$/xc-service-manage-cms/xc-service-manage-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xc-service-manage-cms-client/xc-service-manage-cms-client.iml" filepath="$PROJECT_DIR$/xc-service-manage-cms-client/xc-service-manage-cms-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xc-service-manage-course/xc-service-manage-course.iml" filepath="$PROJECT_DIR$/xc-service-manage-course/xc-service-manage-course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xc-test-freemarker/xc-test-freemarker.iml" filepath="$PROJECT_DIR$/xc-test-freemarker/xc-test-freemarker.iml" />
+    </modules>
+  </component>
+</project>
