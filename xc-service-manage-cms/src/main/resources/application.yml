@@ -1,5 +1,6 @@
 server:
-  port: 31001
+  port: ${PORT:31001}
+
 spring:
   application:
     name: xc-service-manage-cms
@@ -17,3 +18,14 @@ spring:
     username: guest
     password: guest
     virtualHost: /
+
+eureka:
+  client:
+    registerWithEureka: true # 服务注册，是否将自己注册到Eureka服务中,高可用需要使用，相互注册
+    fetchRegistry: true # 服务发现，是否从Eureka中获取注册信息
+    serviceUrl: # Eureka 客户端与Eureka服务端的交互地址,多个中间用逗号分隔
+      defaultZone: ${EUREKA_SERVER:http://eureka01:50101/eureka/,http://eureka02:50102/eureka/} # 高可用环境下需要使用域名,注册到其他服务器
+  instance:
+    prefer-ip-address: true # 将自己的ip地址注册到Eureka服务中
+    ip-address: ${IP_ADDRESS:127.0.0.1}
+    instance-id: ${spring.application.name}:${server.port} # 指定实例id

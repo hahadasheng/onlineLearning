@@ -16,7 +16,8 @@ public enum CmsCode implements ResultCode {
     CMS_GENERATEHTML_SAVEHTMLERROR(false,24005,"保存静态html出错！"),
     CMS_COURSE_PERVIEWISNULL(false,24007,"预览页面为空！"),
     CMS_FILE_NOTEXISTS(false,24009,"文件不存在！"),
-    CMS_PAGE_NOTEXISTS(false,24008,"页面不存在！");
+    CMS_PAGE_NOTEXISTS(false,24008,"页面不存在！"),
+    CMS_SITE_NOTEXISTS(false,24010,"站点信息不存在！");
     //操作代码
     boolean success;
     //操作代码

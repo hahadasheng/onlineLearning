@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 import javax.servlet.ServletOutputStream;
+import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 @Controller
@@ -23,10 +24,16 @@ public class CmsPagePreviewController extends BaseController {
      * @param pageId
      */
     @RequestMapping(value = "/cms/preview/{pageId}", method = RequestMethod.GET)
-    public void preview(@PathVariable("pageId")String pageId) throws IOException {
+    public void preview(
+            @PathVariable("pageId")String pageId
+    ) throws IOException {
         String pageHtml = pageService.getPageHtml(pageId);
 
         if (!StringUtils.isEmpty(pageHtml)) {
+
+            // 设置响应头信息
+            response.setHeader("Content-type", "text/html;charset=utf-8");
+
             ServletOutputStream outputStream = response.getOutputStream();
             outputStream.write(pageHtml.getBytes("utf-8"));
         }

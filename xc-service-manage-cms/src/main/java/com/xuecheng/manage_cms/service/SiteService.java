@@ -9,6 +9,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
+import java.util.Optional;
 
 @Service
 public class SiteService {
@@ -31,5 +32,15 @@ public class SiteService {
         cmsSiteQueryResult.setTotal(all.size());
 
         return new QueryResponseResult(CommonCode.SUCCESS, cmsSiteQueryResult);
+    }
+
+    /**
+     * 根据id查询站点信息
+     * @param siteId
+     * @return
+     */
+    public CmsSite findCmsSiteById(String siteId) {
+        Optional<CmsSite> optional = cmsSiteRepository.findById(siteId);
+        return optional.orElse(null);
     }
 }

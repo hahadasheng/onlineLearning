@@ -3,12 +3,19 @@ package com.lingting;
 import org.csource.fastdfs.*;
 import org.junit.Test;
 
+import java.io.File;
+import java.io.FileOutputStream;
+
 /**
  * @author Liucheng
  * @date 2019/4/18 18:58
  */
 public class FileTest {
 
+    /**
+     * 上传文件测试
+     * @throws Exception
+     */
     @Test
     public void testUpload() throws Exception {
 
@@ -39,6 +46,48 @@ public class FileTest {
          * group1/M00/00/00/wKgZhVy4W7WAerp1AAje9oEw8TM980.jpg
          * http://192.168.25.133/group1/M00/00/00/wKgZhVy4W7WAerp1AAje9oEw8TM980.jpg
          */
+    }
 
+    /**
+     * 测试查询
+     * @throws Exception
+     */
+    @Test
+    public void testQueryFile() throws Exception {
+        ClientGlobal.initByProperties("config/fastdfs-client.properties");
+
+        TrackerClient tracker = new TrackerClient();
+        TrackerServer trackerServer = tracker.getConnection();
+        StorageServer storageServer = null;
+
+        StorageClient storageClient = new StorageClient(trackerServer, storageServer);
+        FileInfo fileInfo = storageClient.query_file_info("group1", "M00/00/00/wKgZhVy4W7WAerp1AAje9oEw8TM980.jpg");
+
+        System.out.println(fileInfo);
+
+    }
+
+    /**
+     * 测试下载文件
+     * @throws Exception
+     */
+    @Test
+    public void testDownloadFile() throws Exception {
+
+        ClientGlobal.initByProperties("config/fastdfs-client.properties");
+
+        TrackerClient tracker = new TrackerClient();
+
+        TrackerServer trackerServer = tracker.getConnection();
+
+        StorageServer storageServer = null;
+
+        StorageClient storageClient = new StorageClient(trackerServer, storageServer);
+
+        byte[] result = storageClient.download_file("group1", "M00/00/00/wKgZhVy4W7WAerp1AAje9oEw8TM980.jpg");
+
+        FileOutputStream fileOutputStream = new FileOutputStream(new File("g:\\zhizi1.jpg"));
+        fileOutputStream.write(result);
+        fileOutputStream.close();
     }
 }

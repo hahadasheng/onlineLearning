@@ -84,5 +84,29 @@ public class GridFSTests {
         gridFsTemplate.delete(Query.query(Criteria.where("_id").is("5cb29994d8ec453054127992")));
     }
 
+    /**
+     * 将课程详情页面存贮到Mongodb中
+     */
+    @Test
+    public void storeFtlForCourseToMongodb() throws Exception {
+        File file = new File("E:\\ALearnCityProject\\ServiceWorkSpace\\xc-service-manage-cms\\src\\main\\resources\\files\\course.ftl");
+        FileInputStream inputStream = new FileInputStream(file);
 
+        // 保存模板文件内容
+        ObjectId gridFSFile = gridFsTemplate.store(inputStream, "course_detail", "");
+        inputStream.close();
+
+        String fileId = gridFSFile.toString();
+
+        System.out.println(fileId);
+        /**
+         filename 课程详情页面模板
+         _id      5cbbdacb24ff444db49c0631
+
+         filename course_detail
+         _id      5cbbdb1d24ff444b641b7af1
+
+
+         */
+    }
 }

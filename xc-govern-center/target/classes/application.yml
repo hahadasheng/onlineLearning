@@ -1,0 +1,18 @@
+server:
+  port: ${PORT:50101} # 服务端口，配置启动参数，如果没有对应的参数，就使用后面的默认值
+
+spring:
+  application:
+    name: xc-govern-center # 指定服务名
+
+eureka:
+  client:
+    registerWithEureka: true # 服务注册，是否将自己注册到Eureka服务中,高可用需要使用，相互注册
+    fetchRegistry: true # 服务发现，是否从Eureka中获取注册信息
+    serviceUrl: # Eureka 客户端与Eureka服务端的交互地址高可用状态配置对方的地址，单机状态配置自己(如果不配置则默认本机8761)
+      defaultZone: ${EUREKA_SERVER:http://eureka02:50102/eureka/} # 高可用环境下需要使用域名,注册到其他服务器
+  server:
+    enable-self-preservation: false # 是否开启自我保护模式；开发阶段关闭(否则不好排错)，生产环境开启！
+    eviction-interval-timer-in-ms: 60000 # 服务注册表清理间隔(单位是毫秒，默认是60 * 1000)
+  instance:
+    hostname: ${EUREKA_DOMAIN:eureka01} # 本服务的域名

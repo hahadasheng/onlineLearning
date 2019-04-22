@@ -15,6 +15,7 @@ import java.util.Map;
 @Document(collection = "filesystem")
 public class FileSystem {
 
+    // fastDFS返回的文件ID
     @Id
     private String fileId;
     //文件请求路径

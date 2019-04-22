@@ -10,6 +10,13 @@ import lombok.Data;
  */
 @Data
 public class CmsPageResult extends ResponseResult {
+
+    public CmsPageResult() {}
+
+    public CmsPageResult(CmsPage cmsPage) {
+        this.cmsPage = cmsPage;
+    }
+
     CmsPage cmsPage;
     public CmsPageResult(ResultCode resultCode,CmsPage cmsPage) {
         super(resultCode);
