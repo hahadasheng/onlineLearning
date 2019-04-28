@@ -2,156 +2,100 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4297f8d5-55bb-4d97-b512-25399170190a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_carrotsearch_hppc_0_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_smile_2_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_andrewoma_dexx_dexx_collections_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_vlsi_compactmap_compactmap_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_feign_feign_core_8_18_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_feign_feign_okhttp_8_18_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_tdunning_t_digest_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vividsolutions_jts_1_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_5_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpasyncclient_4_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_analyzers_common_7_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_backward_codecs_7_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_core_7_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_grouping_7_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_highlighter_7_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_join_7_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_memory_7_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_misc_7_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queries_7_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queryparser_7_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_sandbox_7_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_spatial3d_7_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_spatial_7_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_spatial_extras_7_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_suggest_7_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_client_elasticsearch_rest_client_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_client_elasticsearch_rest_high_level_client_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_cli_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_core_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_jna_4_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_aggs_matrix_stats_client_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_parent_join_client_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_rank_eval_client_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_securesm_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_animal_sniffer_annotation_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_locationtech_spatial4j_spatial4j_0_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/response/CmsPostPageResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/response/CoursePublishResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/response/CourseView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-govern-center/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-govern-center/src/main/java/com/xuecheng/govern/center/GovernCenterApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-govern-center/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-govern-center/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-govern-center/xc-govern-center.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/filesystem/FileSystemControllerApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-base-filesystem/src/main/java/com/xuecheng/filesystem/controller/FileSystemController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-base-filesystem/src/main/java/com/xuecheng/filesystem/dao/FileSystemRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-base-filesystem/src/main/java/com/xuecheng/filesystem/service/FileSystemService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-base-filesystem/xc-service-base-filesystem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/src/main/resources/files/course.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/client/CmsPageClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/dao/CoursePicRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/src/test/java/com/xuecheng/manage_course/dao/TestCloud.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-search/src/test/java/com/xuecheng/search/TestIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-search/xc-service-search.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-test-freemarker/src/main/resources/templates/course.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_wxpay_wxpay_sdk_0_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_security_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_oauth2_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_security_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_oauth_boot_spring_security_oauth2_autoconfigure_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_oauth_spring_security_oauth2_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_jwt_1_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/interceptor/FeignClientInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/TeachplanMediaPub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/learning/respones/GetMediaResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/learning/respones/LearningCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-govern-gateway/pom_docker-registry.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-govern-gateway/pom_docker.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-govern-gateway/src/main/java/com/xuecheng/govern/gateway/filter/LoginFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-govern-gateway/src/main/java/com/xuecheng/govern/gateway/filter/LoginFilterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-govern-gateway/src/main/java/com/xuecheng/govern/gateway/service/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-govern-gateway/xc-govern-gateway.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/auth/AuthControllerApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/learning/CourseLearningControllerApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/search/EsCourseControllerApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/ucenter/UcenterControllerApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/config/RabbitMQConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-learning/xc-service-learning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/config/ResourceServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/src/main/resources/publickey.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/config/ResourceServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/dao/CoursePubRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/exception/CustomExceptionCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/resources/publickey.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/config/AsyncTaskConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/dao/XcTaskHisRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/dao/XcTaskRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/service/ChooseCourseTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/service/TaskService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-manage-order/xc-service-manage-order.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-search/src/main/java/com/xuecheng/search/controller/EsCourseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-search/src/main/java/com/xuecheng/search/service/EsCourseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-search/src/test/java/com/xuecheng/search/TestSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/client/UserClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/service/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/service/BCryptPasswordEncoderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/src/test/java/com/xuecheng/auth/BCryptPasswordEncoderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/src/test/java/com/xuecheng/auth/ClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/src/test/java/com/xuecheng/auth/JwtTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/src/test/java/com/xuecheng/auth/RedisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/xc-service-ucenter-auth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-ucenter/src/main/java/com/xuecheng/ucenter/controller/UcenterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-ucenter/src/main/java/com/xuecheng/ucenter/dao/XcCompanyUserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-ucenter/src/main/java/com/xuecheng/ucenter/dao/XcMenuMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-ucenter/src/main/java/com/xuecheng/ucenter/dao/XcUserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-ucenter/src/main/java/com/xuecheng/ucenter/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-ucenter/src/main/resources/com/xuecheng/ucenter/dao/XcMenuMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-ucenter/xc-service-ucenter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-fastDFS/src/test/java/com/lingting/FileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-fastDFS/src/test/java/com/lingting/FileTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/response/CmsCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/response/CmsCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/response/CmsPageResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/response/CmsPageResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/CoursePub.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/CoursePub.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/response/CourseCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/response/CourseCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/filesystem/FileSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/filesystem/FileSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/filesystem/response/FileSystemCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/filesystem/response/FileSystemCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/cms/CmsPageControllerApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/cms/CmsPageControllerApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/course/CourseControllerApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/course/CourseControllerApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-service-manage-cms-client/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-manage-cms-client/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/response/AuthCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/response/AuthCode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xc-service-manage-cms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-manage-cms/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/ManageCmsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/ManageCmsApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/controller/CmsPageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/controller/CmsPageController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/controller/CmsPagePreviewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/controller/CmsPagePreviewController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/service/PageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/service/PageService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/service/SiteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/service/SiteService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-service-manage-cms/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-manage-cms/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-service-manage-cms/src/test/java/com/xuecheng/manage_cms/GridFSTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-manage-cms/src/test/java/com/xuecheng/manage_cms/GridFSTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xc-service-manage-cms/xc-service-manage-cms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-manage-cms/xc-service-manage-cms.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xc-service-manage-course/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-manage-course/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/ManageCourseApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/ManageCourseApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/controller/CourseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/controller/CourseController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/service/CourseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/service/CourseService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-service-manage-course/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-service-manage-course/src/main/resources/com/xuecheng/manage_course/dao/CourseMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/resources/com/xuecheng/manage_course/dao/CourseMapper.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xc-service-manage-course/xc-service-manage-course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-manage-course/xc-service-manage-course.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-test-freemarker/src/main/java/com/xuecheng/test/freemarker/controller/FreemarkerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-test-freemarker/src/main/java/com/xuecheng/test/freemarker/controller/FreemarkerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-service-search/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-search/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-service-search/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-search/target/classes/application.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/xc-framework-parent/target/" />
     <ignored path="$PROJECT_DIR$/xc-framework-common/target/" />
@@ -169,6 +113,11 @@
     <ignored path="$PROJECT_DIR$/xc-service-base-filesystem/target/" />
     <ignored path="$PROJECT_DIR$/xc-govern-center/target/" />
     <ignored path="$PROJECT_DIR$/xc-service-search/target/" />
+    <ignored path="$PROJECT_DIR$/xc-service-ucenter-auth/target/" />
+    <ignored path="$PROJECT_DIR$/xc-service-ucenter/target/" />
+    <ignored path="$PROJECT_DIR$/xc-govern-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/xc-service-manage-order/target/" />
+    <ignored path="$PROJECT_DIR$/xc-service-learning/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +142,7 @@
     <session id="-1527147235">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="20" />
+          <entry key="project.closed" value="28" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.13" value="1" />
@@ -202,102 +151,120 @@
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.20" value="3" />
-          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.19" value="3" />
+          <entry key="project.open.time.20" value="5" />
+          <entry key="project.open.time.21" value="2" />
           <entry key="project.open.time.22" value="1" />
-          <entry key="project.open.time.23" value="2" />
+          <entry key="project.open.time.23" value="3" />
           <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="2" />
           <entry key="project.open.time.27" value="2" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.32" value="1" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.opened" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="0-SNAPSHOT" value="1" />
-          <entry key="class" value="127" />
+          <entry key="MF" value="2" />
+          <entry key="class" value="188" />
           <entry key="conf" value="2" />
+          <entry key="factories" value="1" />
           <entry key="ftl" value="11" />
+          <entry key="gitignore" value="1" />
+          <entry key="handlers" value="1" />
           <entry key="html" value="4" />
           <entry key="iml" value="1" />
-          <entry key="java" value="489" />
+          <entry key="java" value="768" />
+          <entry key="json" value="4" />
           <entry key="md" value="4" />
-          <entry key="properties" value="4" />
-          <entry key="txt" value="2" />
-          <entry key="xml" value="107" />
-          <entry key="yml" value="63" />
+          <entry key="properties" value="6" />
+          <entry key="schemas" value="1" />
+          <entry key="txt" value="7" />
+          <entry key="xml" value="124" />
+          <entry key="xsd" value="1" />
+          <entry key="yml" value="88" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="127" />
+          <entry key="CLASS" value="188" />
           <entry key="FTL" value="11" />
           <entry key="HTML" value="4" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="489" />
+          <entry key="JAVA" value="768" />
+          <entry key="JSON" value="4" />
+          <entry key="Manifest" value="2" />
           <entry key="Markdown" value="4" />
-          <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Properties" value="4" />
+          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="Properties" value="8" />
           <entry key="UML" value="1" />
-          <entry key="XML" value="107" />
-          <entry key="YAML" value="63" />
+          <entry key="XML" value="125" />
+          <entry key="YAML" value="88" />
+          <entry key="spring.factories" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="class" value="5" />
+          <entry key="class" value="6" />
           <entry key="conf" value="39" />
           <entry key="dummy" value="18" />
           <entry key="ft" value="68" />
           <entry key="ftl" value="943" />
+          <entry key="gitignore" value="17" />
           <entry key="html" value="1" />
-          <entry key="java" value="38126" />
+          <entry key="java" value="61121" />
+          <entry key="json" value="19" />
           <entry key="md" value="564" />
           <entry key="properties" value="39" />
-          <entry key="txt" value="75" />
-          <entry key="xml" value="1452" />
-          <entry key="yml" value="1865" />
+          <entry key="txt" value="155" />
+          <entry key="xml" value="1585" />
+          <entry key="yml" value="2466" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CLASS" value="5" />
+          <entry key="CLASS" value="6" />
           <entry key="FTL" value="943" />
           <entry key="HTML" value="1" />
-          <entry key="JAVA" value="38126" />
+          <entry key="JAVA" value="61120" />
+          <entry key="JSON" value="19" />
           <entry key="Markdown" value="564" />
-          <entry key="PLAIN_TEXT" value="132" />
+          <entry key="PLAIN_TEXT" value="229" />
           <entry key="Properties" value="39" />
-          <entry key="SQL" value="9" />
+          <entry key="SQL" value="14" />
+          <entry key="Spring Data QL" value="1" />
           <entry key="VTL" value="68" />
-          <entry key="XML" value="1443" />
-          <entry key="YAML" value="1865" />
+          <entry key="XML" value="1571" />
+          <entry key="YAML" value="2466" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>render</find>
-      <find>http:</find>
-      <find>mongod</find>
-      <find>amqp-client</find>
-      <find>handleDelivery</find>
-      <find>QUEUE_INFORM_EMAIL</find>
-      <find>EMERGENCy</find>
       <find>DEFUG</find>
       <find>ERROE</find>
       <find>QUEUE_INFORM_TERRAN</find>
@@ -312,6 +279,22 @@
       <find>level</find>
       <find>\t</find>
       <find>\n</find>
+      <find>LoadBalancerClient</find>
+      <find>redis</find>
+      <find>StringRedisTemplate</find>
+      <find>headers</find>
+      <find>oauth_</find>
+      <find>xc</find>
+      <find>spring</find>
+      <find>oauth_client</find>
+      <find>坏的凭证</find>
+      <find>request</find>
+      <find>-</find>
+      <find> </find>
+      <find>oauth</find>
+      <find>getCourseBaseById</find>
+      <find>‐</find>
+      <find>cmsPageClient</find>
     </findStrings>
     <replaceStrings>
       <replace>//</replace>
@@ -322,8 +305,13 @@
       <replace>ERROR</replace>
       <replace>QUEUE_INFORM_ALIEN</replace>
       <replace>EXCHANGE_TOPICS_INFORM</replace>
+      <replace>header</replace>
       <replace />
+      <replace>-</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>E:\ALearnCityProject\ServiceWorkSpace\xc-service-ucenter-auth</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -331,57 +319,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/controller/SysDictionaryController.java" />
-        <option value="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/dao/CourseMarketRepository.java" />
-        <option value="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/CourseMarket.java" />
-        <option value="$PROJECT_DIR$/test-fastDFS/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/test-fastDFS/pom.xml" />
-        <option value="$PROJECT_DIR$/test-fastDFS/src/main/resources/config/fastdfs-client.properties" />
-        <option value="$PROJECT_DIR$/test-fastDFS/src/test/java/com/lingting/FileTest.java" />
-        <option value="C:/nginx_1.8.0/conf/nginx.conf" />
-        <option value="$PROJECT_DIR$/a_markdown/02.综合面试题.md" />
-        <option value="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/filesystem/FileSystem.java" />
-        <option value="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/filesystem/FileSystemControllerApi.java" />
-        <option value="$PROJECT_DIR$/xc-service-base-filesystem/src/main/java/com/xuecheng/filesystem/dao/FileSystemRepository.java" />
-        <option value="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/filesystem/response/FileSystemCode.java" />
-        <option value="$PROJECT_DIR$/xc-service-base-filesystem/src/main/java/com/xuecheng/filesystem/controller/FileSystemController.java" />
-        <option value="$PROJECT_DIR$/xc-service-base-filesystem/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/xc-service-base-filesystem/src/main/java/com/xuecheng/filesystem/service/FileSystemService.java" />
-        <option value="$PROJECT_DIR$/xc-service-base-filesystem/src/main/java/com/xuecheng/filesystem/FileSystemApplication.java" />
-        <option value="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/dao/CoursePicRepository.java" />
-        <option value="$PROJECT_DIR$/xc-govern-center/pom.xml" />
-        <option value="$PROJECT_DIR$/xc-govern-center/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/xc-govern-center/src/main/java/com/xuecheng/govern/center/GovernCenterApplication.java" />
-        <option value="$PROJECT_DIR$/xc-service-manage-cms/pom.xml" />
-        <option value="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/ManageCmsApplication.java" />
-        <option value="$PROJECT_DIR$/xc-service-manage-cms/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/client/FeignClient.java" />
-        <option value="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/ManageCourseApplication.java" />
-        <option value="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/response/CmsPageResult.java" />
-        <option value="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/CmsPage.java" />
-        <option value="$PROJECT_DIR$/xc-service-manage-course/src/test/java/com/xuecheng/manage_course/dao/TestCloud.java" />
-        <option value="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/response/CourseView.java" />
-        <option value="$PROJECT_DIR$/xc-test-freemarker/src/main/java/com/xuecheng/test/freemarker/controller/FreemarkerController.java" />
-        <option value="$PROJECT_DIR$/xc-service-manage-cms/src/test/java/com/xuecheng/manage_cms/GridFSTests.java" />
-        <option value="$PROJECT_DIR$/a_markdown/test.txt" />
-        <option value="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/controller/CmsPagePreviewController.java" />
-        <option value="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/response/CoursePublishResult.java" />
-        <option value="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/response/CourseCode.java" />
-        <option value="$PROJECT_DIR$/xc-service-manage-course/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/response/CmsPostPageResult.java" />
-        <option value="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/cms/CmsPageControllerApi.java" />
-        <option value="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/service/SiteService.java" />
-        <option value="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/response/CmsCode.java" />
-        <option value="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/service/PageService.java" />
-        <option value="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/controller/CmsPageController.java" />
-        <option value="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/client/CmsPageClient.java" />
-        <option value="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/course/CourseControllerApi.java" />
+        <option value="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/config/CustomUserAuthenticationConverter.java" />
+        <option value="$PROJECT_DIR$/xc-service-ucenter-auth/src/test/java/com/xuecheng/auth/ClientTest.java" />
+        <option value="$PROJECT_DIR$/xc-service-ucenter-auth/src/test/java/com/xuecheng/auth/RedisTest.java" />
+        <option value="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/config/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/xc-service-ucenter/src/main/java/com/xuecheng/ucenter/dao/XcUserRepository.java" />
+        <option value="$PROJECT_DIR$/xc-service-ucenter/src/main/java/com/xuecheng/ucenter/dao/XcCompanyUserRepository.java" />
+        <option value="$PROJECT_DIR$/xc-service-ucenter/src/main/java/com/xuecheng/ucenter/controller/UcenterController.java" />
+        <option value="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/client/UserClient.java" />
+        <option value="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/config/AuthorizationServerConfig.java" />
+        <option value="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/service/BCryptPasswordEncoderTest.java" />
+        <option value="$PROJECT_DIR$/xc-service-ucenter/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/xc-service-ucenter-auth/src/test/java/com/xuecheng/auth/BCryptPasswordEncoderTest.java" />
+        <option value="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/response/AuthCode.java" />
+        <option value="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/auth/AuthControllerApi.java" />
+        <option value="$PROJECT_DIR$/xc-govern-gateway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/xc-govern-gateway/src/main/java/com/xuecheng/govern/gateway/filter/LoginFilterTest.java" />
+        <option value="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/service/AuthService.java" />
+        <option value="$PROJECT_DIR$/xc-govern-gateway/src/main/java/com/xuecheng/govern/gateway/service/AuthService.java" />
+        <option value="$PROJECT_DIR$/xc-govern-gateway/src/main/java/com/xuecheng/govern/gateway/filter/LoginFilter.java" />
+        <option value="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/controller/AuthController.java" />
+        <option value="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/exception/CustomExceptionCatch.java" />
+        <option value="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/ucenter/UcenterControllerApi.java" />
+        <option value="$PROJECT_DIR$/xc-service-ucenter/src/main/java/com/xuecheng/ucenter/dao/XcMenuMapper.java" />
+        <option value="$PROJECT_DIR$/xc-service-ucenter/src/main/resources/com/xuecheng/ucenter/dao/XcMenuMapper.xml" />
+        <option value="$PROJECT_DIR$/xc-service-ucenter/src/main/java/com/xuecheng/ucenter/service/UserService.java" />
+        <option value="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/service/UserDetailsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/xc-service-ucenter-auth/src/test/java/com/xuecheng/auth/JwtTest.java" />
         <option value="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/controller/CourseController.java" />
-        <option value="$PROJECT_DIR$/xc-service-manage-cms-client/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/service/CourseService.java" />
-        <option value="$PROJECT_DIR$/xc-service-manage-course/pom.xml" />
-        <option value="$PROJECT_DIR$/xc-service-search/pom.xml" />
-        <option value="$PROJECT_DIR$/xc-service-search/src/test/java/com/xuecheng/search/TestIndex.java" />
+        <option value="$PROJECT_DIR$/xc-service-manage-course/src/main/resources/com/xuecheng/manage_course/dao/CourseMapper.xml" />
+        <option value="$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/interceptor/FeignClientInterceptor.java" />
+        <option value="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/ManageCourseApplication.java" />
+        <option value="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/config/ResourceServerConfig.java" />
+        <option value="$PROJECT_DIR$/xc-service-manage-cms/pom.xml" />
+        <option value="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/config/ResourceServerConfig.java" />
+        <option value="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/service/PageService.java" />
+        <option value="$PROJECT_DIR$/xc-service-manage-order/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/config/AsyncTaskConfig.java" />
+        <option value="$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/ManageOrderApplication.java" />
+        <option value="$PROJECT_DIR$/xc-service-learning/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/dao/XcTaskRepository.java" />
+        <option value="$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/dao/XcLearningCourseRepository.java" />
+        <option value="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/learning/CourseLearningControllerApi.java" />
+        <option value="$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/service/LearningService.java" />
+        <option value="$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/mq/ChooseCourseTask.java" />
+        <option value="$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/dao/xcTaskHisRepository.java" />
+        <option value="$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/service/TaskService.java" />
+        <option value="$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/service/ChooseCourseTask.java" />
+        <option value="$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/config/RabbitMQConfig.java" />
+        <option value="$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/config/RabbitMQConfig.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -411,10 +399,27 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="635" />
-    <option name="y" value="60" />
-    <option name="width" value="1885" />
-    <option name="height" value="992" />
+    <option name="x" value="748" />
+    <option name="y" value="52" />
+    <option name="width" value="1930" />
+    <option name="height" value="939" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Ali-Check</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AlibabaTransactionMustHaveRollback</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -424,83 +429,144 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="ServiceWorkSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xc-service-search" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-service-learning" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ServiceWorkSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xc-service-search" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-service-learning" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ServiceWorkSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xc-service-search" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ServiceWorkSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xc-service-search" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-service-learning" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ServiceWorkSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xc-service-search" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-service-learning" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="search" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ServiceWorkSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xc-service-search" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-service-learning" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="search" type="462c0819:PsiDirectoryNode" />
+              <item name="learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ServiceWorkSpace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xc-service-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="learning" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ServiceWorkSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xc-service-search" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-service-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="learning" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ServiceWorkSpace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xc-service-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="learning" type="462c0819:PsiDirectoryNode" />
+              <item name="mq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ServiceWorkSpace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xc-service-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="learning" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ServiceWorkSpace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xc-service-learning" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ServiceWorkSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xc-service-search" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-service-manage-order" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ServiceWorkSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xc-service-search" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-service-manage-order" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ServiceWorkSpace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xc-service-manage-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ServiceWorkSpace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xc-service-manage-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ServiceWorkSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xc-service-search" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-service-manage-order" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="search" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ServiceWorkSpace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xc-service-manage-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ServiceWorkSpace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xc-service-manage-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ServiceWorkSpace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xc-service-manage-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -512,8 +578,8 @@
     <property name="SearchEverywhereHistoryKey" value="RibbonLoadBalancerClient&#9;FILE&#9;jar://D:/maven_repository_xuecheng/org/springframework/cloud/spring-cloud-netflix-ribbon/2.0.1.RELEASE/spring-cloud-netflix-ribbon-2.0.1.RELEASE.jar!/org/springframework/cloud/netflix/ribbon/RibbonLoadBalancerClient.class&#10;LoadBalancerInterceptor&#9;PSI&#9;JAVA://org.springframework.cloud.client.loadbalancer.LoadBalancerInterceptor&#10;CommCode&#9;FILE&#9;file://E:/ALearnCityProject/ServiceWorkSpace/xc-framework-common/src/main/java/com/xuecheng/framework/model/response/CommonCode.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555931767651" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/xc-service-search" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556420413494" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/xc-service-learning" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -529,16 +595,18 @@
       <recent name="com.xuecheng.manage_cms.dao" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xuecheng.learning.config" />
       <recent name="com.xuecheng.manage_cms.config" />
+      <recent name="com.xuecheng.govern.gateway.filter" />
+      <recent name="com.xuecheng.search" />
       <recent name="com.xuecheng.manage_cms_client.config" />
-      <recent name="com.lingting" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\ALearnCityProject\ServiceWorkSpace\xc-service-manage-cms\src\main\resources\files" />
-      <recent name="E:\ALearnCityProject\ServiceWorkSpace\xc-test-freemarker\src\main\resources\templates" />
-      <recent name="E:\ALearnCityProject\ServiceWorkSpace\xc-govern-center\src\main\resources" />
-      <recent name="E:\ALearnCityProject\ServiceWorkSpace\test-fastDFS\src\test\resources" />
-      <recent name="E:\ALearnCityProject\ServiceWorkSpace\test-fastDFS\src\main\resources" />
+      <recent name="E:\ALearnCityProject\ServiceWorkSpace\xc-govern-gateway" />
+      <recent name="E:\ALearnCityProject\ServiceWorkSpace\xc-service-api\src\main\java\com\xuecheng\api" />
+      <recent name="E:\ALearnCityProject\ServiceWorkSpace\xc-framework-model\src\main\java\com\xuecheng\framework\domain\learning" />
+      <recent name="E:\ALearnCityProject\ServiceWorkSpace\xc-framework-model\src\main\java\com\xuecheng\framework\domain\course" />
+      <recent name="E:\ALearnCityProject\ServiceWorkSpace\xc-service-manage-cms\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -553,83 +621,90 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestIndex.testDelDoc">
-    <configuration name="TestIndex.getDoc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="xc-service-search" />
+  <component name="RunManager" selected="Spring Boot.ManageOrderApplication">
+    <configuration name="ClientTest.testClient" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-ucenter-auth" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuecheng.search.*" />
+          <option name="PATTERN" value="com.xuecheng.auth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.xuecheng.search" />
-      <option name="MAIN_CLASS_NAME" value="com.xuecheng.search.TestIndex" />
-      <option name="METHOD_NAME" value="getDoc" />
+      <option name="PACKAGE_NAME" value="com.xuecheng.auth" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.auth.ClientTest" />
+      <option name="METHOD_NAME" value="testClient" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestIndex.testAddDoc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="xc-service-search" />
+    <configuration name="JwtTest.testCreateJwt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-ucenter-auth" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuecheng.search.*" />
+          <option name="PATTERN" value="com.xuecheng.auth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.xuecheng.search" />
-      <option name="MAIN_CLASS_NAME" value="com.xuecheng.search.TestIndex" />
-      <option name="METHOD_NAME" value="testAddDoc" />
+      <option name="PACKAGE_NAME" value="com.xuecheng.auth" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.auth.JwtTest" />
+      <option name="METHOD_NAME" value="testCreateJwt" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestIndex.testCreateIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="xc-service-search" />
+    <configuration name="JwtTest.testVerify" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-ucenter-auth" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuecheng.search.*" />
+          <option name="PATTERN" value="com.xuecheng.auth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.xuecheng.search" />
-      <option name="MAIN_CLASS_NAME" value="com.xuecheng.search.TestIndex" />
-      <option name="METHOD_NAME" value="testCreateIndex" />
+      <option name="PACKAGE_NAME" value="com.xuecheng.auth" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.auth.JwtTest" />
+      <option name="METHOD_NAME" value="testVerify" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestIndex.testDelDoc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="xc-service-search" />
+    <configuration name="RedisTest.testRedis" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-ucenter-auth" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuecheng.search.*" />
+          <option name="PATTERN" value="com.xuecheng.auth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.xuecheng.search" />
-      <option name="MAIN_CLASS_NAME" value="com.xuecheng.search.TestIndex" />
-      <option name="METHOD_NAME" value="testDelDoc" />
+      <option name="PACKAGE_NAME" value="com.xuecheng.auth" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.auth.RedisTest" />
+      <option name="METHOD_NAME" value="testRedis" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestIndex.updateDoc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="xc-service-search" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xuecheng.search.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.xuecheng.search" />
-      <option name="MAIN_CLASS_NAME" value="com.xuecheng.search.TestIndex" />
-      <option name="METHOD_NAME" value="updateDoc" />
-      <option name="TEST_OBJECT" value="method" />
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-rabbitmq-producer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingting.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Auth" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-ucenter-auth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.auth.UcenterAuthApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CMS" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-manage-cms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_cms.ManageCmsApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -652,16 +727,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileSystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="xc-service-base-filesystem" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.filesystem.FileSystemApplication" />
+    <configuration name="CmsClient" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="xc-service-manage-cms-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.manage_cms_client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_cms_client.ManageCmsClientApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FreemarkerTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="Course" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-manage-course" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_course.ManageCourseApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileSystem" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-base-filesystem" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.filesystem.FileSystemApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Freemarker" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="xc-test-freemarker" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.test.freemarker.FreemarkerTestApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gateway" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-govern-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.govern.gateway.GatewayApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -696,23 +803,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ManageCmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="xc-service-manage-cms" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_cms.ManageCmsApplication" />
+    <configuration name="LearningApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-learning" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.learning.LearningApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ManageCourseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="xc-service-manage-course" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_course.ManageCourseApplication" />
+    <configuration name="ManageOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-manage-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.order.ManageOrderApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="Search" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="xc-service-search" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.search.SearchApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ucenter" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-ucenter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.ucenter.UcenterApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -722,24 +838,30 @@
       <item itemvalue="Spring Boot.Govern02" />
       <item itemvalue="Spring Boot.Cms01" />
       <item itemvalue="Spring Boot.Cms02" />
-      <item itemvalue="Spring Boot.FreemarkerTestApplication" />
-      <item itemvalue="Spring Boot.ManageCmsApplication" />
-      <item itemvalue="Spring Boot.ManageCourseApplication" />
-      <item itemvalue="Spring Boot.FileSystemApplication" />
-      <item itemvalue="Spring Boot.SearchApplication" />
-      <item itemvalue="JUnit.TestIndex.testCreateIndex" />
-      <item itemvalue="JUnit.TestIndex.testAddDoc" />
-      <item itemvalue="JUnit.TestIndex.getDoc" />
-      <item itemvalue="JUnit.TestIndex.updateDoc" />
-      <item itemvalue="JUnit.TestIndex.testDelDoc" />
+      <item itemvalue="Spring Boot.Freemarker" />
+      <item itemvalue="Spring Boot.CMS" />
+      <item itemvalue="Spring Boot.Course" />
+      <item itemvalue="Spring Boot.FileSystem" />
+      <item itemvalue="Spring Boot.Search" />
+      <item itemvalue="Spring Boot.Auth" />
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Spring Boot.Ucenter" />
+      <item itemvalue="Spring Boot.Gateway" />
+      <item itemvalue="Spring Boot.ManageOrderApplication" />
+      <item itemvalue="JUnit.JwtTest.testCreateJwt" />
+      <item itemvalue="JUnit.JwtTest.testVerify" />
+      <item itemvalue="JUnit.RedisTest.testRedis" />
+      <item itemvalue="JUnit.ClientTest.testClient" />
+      <item itemvalue="Spring Boot.CmsClient" />
+      <item itemvalue="Spring Boot.LearningApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestIndex.testDelDoc" />
-        <item itemvalue="JUnit.TestIndex.updateDoc" />
-        <item itemvalue="JUnit.TestIndex.getDoc" />
-        <item itemvalue="JUnit.TestIndex.testAddDoc" />
-        <item itemvalue="JUnit.TestIndex.testCreateIndex" />
+        <item itemvalue="Spring Boot.CmsClient" />
+        <item itemvalue="JUnit.JwtTest.testVerify" />
+        <item itemvalue="JUnit.RedisTest.testRedis" />
+        <item itemvalue="JUnit.ClientTest.testClient" />
+        <item itemvalue="JUnit.JwtTest.testCreateJwt" />
       </list>
     </recent_temporary>
   </component>
@@ -774,49 +896,58 @@
       <workItem from="1555721296716" duration="19294000" />
       <workItem from="1555808357461" duration="24481000" />
       <workItem from="1555894524553" duration="1781000" />
-      <workItem from="1555916064153" duration="8253000" />
+      <workItem from="1555916064153" duration="14622000" />
+      <workItem from="1555981072867" duration="23100000" />
+      <workItem from="1556066742796" duration="24814000" />
+      <workItem from="1556152674904" duration="24761000" />
+      <workItem from="1556195190892" duration="598000" />
+      <workItem from="1556253002243" duration="8484000" />
+      <workItem from="1556324715653" duration="13149000" />
+      <workItem from="1556362066591" duration="4031000" />
+      <workItem from="1556413830127" duration="6560000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestCloud_testFeign - 2019.04.20 at 18h 41m 46s.xml">
-      <configuration name="TestCloud.testFeign" configurationId="JUnit" />
+    <history-entry file="RedisTest_testRedis - 2019.04.24 at 20h 08m 48s.xml">
+      <configuration name="RedisTest.testRedis" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GridFSTests_storeFtlForCourseToMongodb - 2019.04.21 at 10h 51m 56s.xml">
-      <configuration name="GridFSTests.storeFtlForCourseToMongodb" configurationId="JUnit" />
+    <history-entry file="RedisTest_testRedis - 2019.04.24 at 20h 09m 27s.xml">
+      <configuration name="RedisTest.testRedis" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GridFSTests_storeFtlForCourseToMongodb - 2019.04.21 at 10h 53m 18s.xml">
-      <configuration name="GridFSTests.storeFtlForCourseToMongodb" configurationId="JUnit" />
+    <history-entry file="RedisTest_testRedis - 2019.04.24 at 20h 10m 33s.xml">
+      <configuration name="RedisTest.testRedis" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestIndex_testCreateIndex - 2019.04.22 at 16h 51m 35s.xml">
-      <configuration name="TestIndex.testCreateIndex" configurationId="JUnit" />
+    <history-entry file="RedisTest_testRedis - 2019.04.24 at 20h 11m 20s.xml">
+      <configuration name="RedisTest.testRedis" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestIndex_testDeleteIndex - 2019.04.22 at 16h 54m 20s.xml">
-      <configuration name="TestIndex.testDeleteIndex" configurationId="JUnit" />
+    <history-entry file="RedisTest_testRedis - 2019.04.24 at 20h 12m 46s.xml">
+      <configuration name="RedisTest.testRedis" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestIndex_testCreateIndex - 2019.04.22 at 16h 55m 05s.xml">
-      <configuration name="TestIndex.testCreateIndex" configurationId="JUnit" />
+    <history-entry file="RedisTest_testRedis - 2019.04.24 at 20h 13m 24s.xml">
+      <configuration name="RedisTest.testRedis" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestIndex_testAddDoc - 2019.04.22 at 17h 30m 20s.xml">
-      <configuration name="TestIndex.testAddDoc" configurationId="JUnit" />
+    <history-entry file="JwtTest_testVerify - 2019.04.26 at 12h 59m 00s.xml">
+      <configuration name="JwtTest.testVerify" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestIndex_getDoc - 2019.04.22 at 17h 36m 40s.xml">
-      <configuration name="TestIndex.getDoc" configurationId="JUnit" />
+    <history-entry file="JwtTest_testVerify - 2019.04.26 at 15h 11m 34s.xml">
+      <configuration name="JwtTest.testVerify" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestIndex_updateDoc - 2019.04.22 at 17h 59m 10s.xml">
-      <configuration name="TestIndex.updateDoc" configurationId="JUnit" />
+    <history-entry file="JwtTest_testVerify - 2019.04.27 at 08h 50m 10s.xml">
+      <configuration name="JwtTest.testVerify" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestIndex_testDelDoc - 2019.04.22 at 18h 06m 25s.xml">
-      <configuration name="TestIndex.testDelDoc" configurationId="JUnit" />
+    <history-entry file="JwtTest_testVerify - 2019.04.27 at 08h 52m 06s.xml">
+      <configuration name="JwtTest.testVerify" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="253581000" />
+    <option name="totallyTimeSpent" value="365447000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="508" y="48" width="1508" height="793" extended-state="1" />
+    <frame x="599" y="42" width="1544" height="751" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49612403" visible="true" weight="0.18551724" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49612403" visible="true" weight="0.12382234" />
       <window_info id="Structure" order="1" sideWeight="0.503876" side_tool="true" weight="0.05034483" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -826,15 +957,15 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932706" visible="true" weight="0.089393936" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3860465" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932706" weight="0.4142395" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5397816" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067294" side_tool="true" weight="0.30833334" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.5426357" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.26213592" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" />
@@ -843,12 +974,46 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.5110345" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.23597123" />
       <window_info anchor="right" id="Database" order="6" weight="0.32997313" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49612403" visible="true" weight="0.20896551" />
+      <window_info id="Structure" order="1" sideWeight="0.503876" side_tool="true" weight="0.05034483" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932706" visible="true" weight="0.3110774" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3860465" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067294" side_tool="true" weight="0.30833334" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.5417957" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.23655172" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32997313" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -860,586 +1025,367 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/xc-test-freemarker/src/main/java/com/xuecheng/test/freemarker/controller/FreemarkerController.java">
+    <entry file="file://$PROJECT_DIR$/xc-service-ucenter/src/main/java/com/xuecheng/ucenter/dao/XcCompanyUserRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="104" column="5" lean-forward="true" selection-start-line="104" selection-start-column="5" selection-end-line="104" selection-end-column="5" />
+        <state relative-caret-position="308">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xc-test-freemarker/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/xc-service-ucenter/src/main/java/com/xuecheng/ucenter/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        <state relative-caret-position="261">
+          <caret line="64" column="64" lean-forward="true" selection-start-line="64" selection-start-column="64" selection-end-line="64" selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/config/MongoConfig.java">
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/dao/CourseMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-ucenter-auth/src/test/java/com/xuecheng/auth/JwtTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44">
+          <caret line="80" column="1103" selection-start-line="80" selection-start-column="1103" selection-end-line="80" selection-end-column="1103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE.jar!/org/springframework/security/oauth2/provider/ClientDetailsService.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/client/UserClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/request/CourseListRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/test/java/com/xuecheng/manage_cms/RestTemplateTest.java">
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-course/src/main/resources/com/xuecheng/manage_course/dao/CourseMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="201">
+          <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/test/java/OtherTest.java">
+    <entry file="file://$PROJECT_DIR$/xc-govern-gateway/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="1430">
+          <caret line="65" column="23" lean-forward="true" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/test/java/com/xuecheng/manage_cms/dao/CmsPageRepositoryTest.java">
+    <entry file="file://$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/service/UserDetailsServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/test/java/com/xuecheng/manage_cms/service/CmsPageServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-test-freemarker/src/test/java/com/lingting/test/TemplateGeneration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-test-freemarker/src/main/java/com/xuecheng/test/freemarker/FreemarkerTestApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/resources/files/course.ftl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/test/java/com/xuecheng/manage_cms/GridFSTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="102" column="26" selection-start-line="102" selection-start-column="26" selection-end-line="102" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a_markdown/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="29" column="1" lean-forward="true" selection-start-line="17" selection-end-line="29" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/web/BaseController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="25" column="41" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/exception/ExceptionCast.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="133" selection-start-line="133" selection-end-line="133" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/response/CoursePublishResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/response/CourseCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="22" column="24" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/CourseBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-149">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/controller/CmsPagePreviewController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/response/CmsPostPageResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/cms/CmsSiteControllerApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/cms/CmsTemplateControllerApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/cms/CmsConfigControllerApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/cms/CmsPageControllerApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="44" column="23" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/dao/CmsSiteRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/service/SiteService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="41" column="34" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/response/CmsCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/controller/CmsPageController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/client/CmsPageClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-manage-course/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="39" selection-start-line="39" selection-end-line="39" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/course/CourseControllerApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="66" column="68" selection-start-line="66" selection-start-column="68" selection-end-line="66" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/controller/CourseController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="198" lean-forward="true" selection-start-line="198" selection-end-line="198" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms-client/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms-client/src/main/java/com/xuecheng/manage_cms_client/config/RabbitmqConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-903">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms-client/src/main/java/com/xuecheng/manage_cms_client/config/MongoConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-31">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms-client/src/main/java/com/xuecheng/manage_cms_client/mq/ConsumerPostPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-572">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms-client/src/main/java/com/xuecheng/manage_cms_client/service/PageService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1367">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/service/CourseService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2618">
-          <caret line="261" column="57" lean-forward="true" selection-start-line="261" selection-start-column="57" selection-end-line="261" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/service/PageService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="515" selection-start-line="515" selection-end-line="515" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/ManageCourseApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1505#1506#0" expanded="true" />
-            <element signature="e#1583#1584#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/ManageCmsApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="286">
+          <caret line="50" column="30" lean-forward="true" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xc-service-manage-cms-client/src/main/java/com/xuecheng/manage_cms_client/ManageCmsClientApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="110">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/resources/logback-spring.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-framework-parent/pom.xml">
+    <entry file="file://$PROJECT_DIR$/xc-framework-common/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        <state relative-caret-position="-594" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/interceptor/FeignClientInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="uml://MAVEN/com.xuecheng:xc-service-manage-course:1.0-SNAPSHOT">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MAVEN</ID>
-          <OriginalElement>com.xuecheng:xc-service-manage-course:1.0-SNAPSHOT</OriginalElement>
-          <nodes>
-            <node x="" y="">com.xuecheng:xc-service-manage-course:1.0-SNAPSHOT</node>
-            <node x="" y="">com.xuecheng:xc-service-api:jar:1.0-SNAPSHOT</node>
-            <node x="" y="">com.xuecheng:xc-service-api:jar:1.0-SNAPSHOT/commons-fileupload:commons-fileupload:jar:1.3.3</node>
-            <node x="" y="">com.xuecheng:xc-service-api:jar:1.0-SNAPSHOT/io.springfox:springfox-swagger2:jar:2.7.0</node>
-            <node x="" y="">com.xuecheng:xc-service-api:jar:1.0-SNAPSHOT/io.springfox:springfox-swagger2:jar:2.7.0/io.swagger:swagger-annotations:jar:1.5.13</node>
-            <node x="" y="">com.xuecheng:xc-service-api:jar:1.0-SNAPSHOT/io.springfox:springfox-swagger2:jar:2.7.0/io.swagger:swagger-models:jar:1.5.13</node>
-            <node x="" y="">com.xuecheng:xc-service-api:jar:1.0-SNAPSHOT/io.springfox:springfox-swagger2:jar:2.7.0/io.springfox:springfox-spi:jar:2.7.0</node>
-            <node x="" y="">com.xuecheng:xc-service-api:jar:1.0-SNAPSHOT/io.springfox:springfox-swagger2:jar:2.7.0/io.springfox:springfox-spi:jar:2.7.0/io.springfox:springfox-core:jar:2.7.0</node>
-            <node x="" y="">com.xuecheng:xc-service-api:jar:1.0-SNAPSHOT/io.springfox:springfox-swagger2:jar:2.7.0/io.springfox:springfox-schema:jar:2.7.0</node>
-            <node x="" y="">com.xuecheng:xc-service-api:jar:1.0-SNAPSHOT/io.springfox:springfox-swagger2:jar:2.7.0/io.springfox:springfox-swagger-common:jar:2.7.0</node>
-            <node x="" y="">com.xuecheng:xc-service-api:jar:1.0-SNAPSHOT/io.springfox:springfox-swagger2:jar:2.7.0/io.springfox:springfox-spring-web:jar:2.7.0</node>
-            <node x="" y="">com.xuecheng:xc-service-api:jar:1.0-SNAPSHOT/io.springfox:springfox-swagger2:jar:2.7.0/io.springfox:springfox-spring-web:jar:2.7.0/org.reflections:reflections:jar:0.9.11</node>
-            <node x="" y="">com.xuecheng:xc-service-api:jar:1.0-SNAPSHOT/io.springfox:springfox-swagger2:jar:2.7.0/io.springfox:springfox-spring-web:jar:2.7.0/org.reflections:reflections:jar:0.9.11/org.javassist:javassist:jar:3.21.0-GA</node>
-            <node x="" y="">com.xuecheng:xc-service-api:jar:1.0-SNAPSHOT/io.springfox:springfox-swagger2:jar:2.7.0/com.fasterxml:classmate:jar:1.3.4</node>
-            <node x="" y="">com.xuecheng:xc-service-api:jar:1.0-SNAPSHOT/io.springfox:springfox-swagger2:jar:2.7.0/org.springframework.plugin:spring-plugin-core:jar:1.2.0.RELEASE</node>
-            <node x="" y="">com.xuecheng:xc-service-api:jar:1.0-SNAPSHOT/io.springfox:springfox-swagger2:jar:2.7.0/org.springframework.plugin:spring-plugin-metadata:jar:1.2.0.RELEASE</node>
-            <node x="" y="">com.xuecheng:xc-service-api:jar:1.0-SNAPSHOT/io.springfox:springfox-swagger2:jar:2.7.0/org.mapstruct:mapstruct:jar:1.1.0.Final</node>
-            <node x="" y="">com.xuecheng:xc-service-api:jar:1.0-SNAPSHOT/io.springfox:springfox-swagger-ui:jar:2.7.0</node>
-            <node x="" y="">com.xuecheng:xc-framework-model:jar:1.0-SNAPSHOT</node>
-            <node x="" y="">com.xuecheng:xc-framework-model:jar:1.0-SNAPSHOT/org.projectlombok:lombok:jar:1.16.16</node>
-            <node x="" y="">com.xuecheng:xc-framework-model:jar:1.0-SNAPSHOT/org.springframework.data:spring-data-commons:jar:2.0.6.RELEASE</node>
-            <node x="" y="">com.xuecheng:xc-framework-model:jar:1.0-SNAPSHOT/org.springframework.data:spring-data-mongodb:jar:2.0.6.RELEASE</node>
-            <node x="" y="">com.xuecheng:xc-framework-model:jar:1.0-SNAPSHOT/org.springframework.data:spring-data-mongodb:jar:2.0.6.RELEASE/org.springframework:spring-context:jar:5.0.5.RELEASE</node>
-            <node x="" y="">com.xuecheng:xc-framework-model:jar:1.0-SNAPSHOT/org.springframework.data:spring-data-mongodb:jar:2.0.6.RELEASE/org.springframework:spring-expression:jar:5.0.5.RELEASE</node>
-            <node x="" y="">com.xuecheng:xc-framework-model:jar:1.0-SNAPSHOT/org.springframework.data:spring-data-mongodb:jar:2.0.6.RELEASE/org.mongodb:mongo-java-driver:jar:3.6.3</node>
-            <node x="" y="">com.xuecheng:xc-framework-model:jar:1.0-SNAPSHOT/org.hibernate:hibernate-core:jar:5.2.16.Final</node>
-            <node x="" y="">com.xuecheng:xc-framework-model:jar:1.0-SNAPSHOT/org.hibernate:hibernate-core:jar:5.2.16.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final</node>
-            <node x="" y="">com.xuecheng:xc-framework-model:jar:1.0-SNAPSHOT/org.hibernate:hibernate-core:jar:5.2.16.Final/org.hibernate.javax.persistence:hibernate-jpa-2.1-api:jar:1.0.0.Final</node>
-            <node x="" y="">com.xuecheng:xc-framework-model:jar:1.0-SNAPSHOT/org.hibernate:hibernate-core:jar:5.2.16.Final/org.javassist:javassist:jar:3.22.0-GA</node>
-            <node x="" y="">com.xuecheng:xc-framework-model:jar:1.0-SNAPSHOT/org.hibernate:hibernate-core:jar:5.2.16.Final/antlr:antlr:jar:2.7.7</node>
-            <node x="" y="">com.xuecheng:xc-framework-model:jar:1.0-SNAPSHOT/org.hibernate:hibernate-core:jar:5.2.16.Final/org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec:jar:1.0.1.Final</node>
-            <node x="" y="">com.xuecheng:xc-framework-model:jar:1.0-SNAPSHOT/org.hibernate:hibernate-core:jar:5.2.16.Final/org.jboss:jandex:jar:2.0.3.Final</node>
-            <node x="" y="">com.xuecheng:xc-framework-model:jar:1.0-SNAPSHOT/org.hibernate:hibernate-core:jar:5.2.16.Final/dom4j:dom4j:jar:1.6.1</node>
-            <node x="" y="">com.xuecheng:xc-framework-model:jar:1.0-SNAPSHOT/org.hibernate:hibernate-core:jar:5.2.16.Final/org.hibernate.common:hibernate-commons-annotations:jar:5.0.1.Final</node>
-            <node x="" y="">com.xuecheng:xc-framework-model:jar:1.0-SNAPSHOT/com.google.guava:guava:jar:24.0-jre</node>
-            <node x="" y="">com.xuecheng:xc-framework-model:jar:1.0-SNAPSHOT/com.google.guava:guava:jar:24.0-jre/com.google.code.findbugs:jsr305:jar:1.3.9</node>
-            <node x="" y="">com.xuecheng:xc-framework-model:jar:1.0-SNAPSHOT/com.google.guava:guava:jar:24.0-jre/org.checkerframework:checker-compat-qual:jar:2.0.0</node>
-            <node x="" y="">com.xuecheng:xc-framework-model:jar:1.0-SNAPSHOT/com.google.guava:guava:jar:24.0-jre/com.google.errorprone:error_prone_annotations:jar:2.1.3</node>
-            <node x="" y="">com.xuecheng:xc-framework-model:jar:1.0-SNAPSHOT/com.google.guava:guava:jar:24.0-jre/com.google.j2objc:j2objc-annotations:jar:1.1</node>
-            <node x="" y="">com.xuecheng:xc-framework-model:jar:1.0-SNAPSHOT/com.google.guava:guava:jar:24.0-jre/org.codehaus.mojo:animal-sniffer-annotations:jar:1.14</node>
-            <node x="" y="">com.xuecheng:xc-framework-utils:jar:1.0-SNAPSHOT</node>
-            <node x="" y="">com.xuecheng:xc-framework-utils:jar:1.0-SNAPSHOT/javax.servlet:javax.servlet-api:jar:3.1.0</node>
-            <node x="" y="">com.xuecheng:xc-framework-utils:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-logging:jar:2.0.1.RELEASE</node>
-            <node x="" y="">com.xuecheng:xc-framework-utils:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-logging:jar:2.0.1.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3</node>
-            <node x="" y="">com.xuecheng:xc-framework-utils:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-logging:jar:2.0.1.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
-            <node x="" y="">com.xuecheng:xc-framework-utils:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-logging:jar:2.0.1.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0</node>
-            <node x="" y="">com.xuecheng:xc-framework-utils:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-logging:jar:2.0.1.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0/org.apache.logging.log4j:log4j-api:jar:2.10.0</node>
-            <node x="" y="">com.xuecheng:xc-framework-utils:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-logging:jar:2.0.1.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25</node>
-            <node x="" y="">com.xuecheng:xc-framework-utils:jar:1.0-SNAPSHOT/org.apache.httpcomponents:httpclient:jar:4.5.5</node>
-            <node x="" y="">com.xuecheng:xc-framework-utils:jar:1.0-SNAPSHOT/org.apache.httpcomponents:httpclient:jar:4.5.5/org.apache.httpcomponents:httpcore:jar:4.4.9</node>
-            <node x="" y="">com.xuecheng:xc-framework-utils:jar:1.0-SNAPSHOT/org.apache.httpcomponents:httpclient:jar:4.5.5/commons-codec:commons-codec:jar:1.10</node>
-            <node x="" y="">com.xuecheng:xc-framework-utils:jar:1.0-SNAPSHOT/net.lingala.zip4j:zip4j:jar:1.3.1</node>
-            <node x="" y="">com.xuecheng:xc-framework-utils:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-crypto:jar:5.0.4.RELEASE</node>
-            <node x="" y="">com.xuecheng:xc-framework-utils:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-jwt:jar:1.0.8.RELEASE</node>
-            <node x="" y="">com.xuecheng:xc-framework-utils:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-jwt:jar:1.0.8.RELEASE/org.bouncycastle:bcpkix-jdk15on:jar:1.56</node>
-            <node x="" y="">com.xuecheng:xc-framework-utils:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-jwt:jar:1.0.8.RELEASE/org.bouncycastle:bcpkix-jdk15on:jar:1.56/org.bouncycastle:bcprov-jdk15on:jar:1.56</node>
-            <node x="" y="">com.xuecheng:xc-framework-common:jar:1.0-SNAPSHOT</node>
-            <node x="" y="">com.xuecheng:xc-framework-common:jar:1.0-SNAPSHOT/org.springframework:spring-web:jar:5.0.5.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.1.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.1.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot:jar:2.0.1.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.1.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.1.RELEASE/org.yaml:snakeyaml:jar:1.19</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.1.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.1.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.5</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.1.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.5</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.1.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.5</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.1.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.5</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.1.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.1.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.28</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.1.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.28</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.1.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.28</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.1.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.9.Final</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.1.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.9.Final/javax.validation:validation-api:jar:2.0.1.Final</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.1.RELEASE/org.springframework:spring-webmvc:jar:5.0.5.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.1.RELEASE/org.springframework:spring-webmvc:jar:5.0.5.RELEASE/org.springframework:spring-aop:jar:5.0.5.RELEASE</node>
-            <node x="" y="">mysql:mysql-connector-java:jar:5.1.40</node>
-            <node x="" y="">com.alibaba:druid-spring-boot-starter:jar:1.1.10</node>
-            <node x="" y="">com.alibaba:druid-spring-boot-starter:jar:1.1.10/com.alibaba:druid:jar:1.1.6</node>
-            <node x="" y="">com.alibaba:druid-spring-boot-starter:jar:1.1.10/org.slf4j:slf4j-api:jar:1.7.25</node>
-            <node x="" y="">com.alibaba:druid-spring-boot-starter:jar:1.1.10/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.1.RELEASE</node>
-            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1</node>
-            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.1.RELEASE</node>
-            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.1.RELEASE/com.zaxxer:HikariCP:jar:2.7.8</node>
-            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.3.1</node>
-            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1/org.mybatis:mybatis:jar:3.4.5</node>
-            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1/org.mybatis:mybatis-spring:jar:1.3.1</node>
-            <node x="" y="">org.springframework:spring-orm:jar:5.0.5.RELEASE</node>
-            <node x="" y="">org.springframework:spring-orm:jar:5.0.5.RELEASE/org.springframework:spring-beans:jar:5.0.5.RELEASE</node>
-            <node x="" y="">org.springframework:spring-orm:jar:5.0.5.RELEASE/org.springframework:spring-core:jar:5.0.5.RELEASE</node>
-            <node x="" y="">org.springframework:spring-orm:jar:5.0.5.RELEASE/org.springframework:spring-core:jar:5.0.5.RELEASE/org.springframework:spring-jcl:jar:5.0.5.RELEASE</node>
-            <node x="" y="">org.springframework:spring-orm:jar:5.0.5.RELEASE/org.springframework:spring-jdbc:jar:5.0.5.RELEASE</node>
-            <node x="" y="">org.springframework:spring-orm:jar:5.0.5.RELEASE/org.springframework:spring-tx:jar:5.0.5.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.1.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter-aop:jar:2.0.1.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter-aop:jar:2.0.1.RELEASE/org.aspectj:aspectjweaver:jar:1.8.13</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.1.RELEASE/javax.transaction:javax.transaction-api:jar:1.2</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.1.RELEASE/org.springframework.data:spring-data-jpa:jar:2.0.6.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.1.RELEASE/org.springframework:spring-aspects:jar:5.0.5.RELEASE</node>
-            <node x="" y="">com.squareup.okhttp3:okhttp:jar:3.9.1</node>
-            <node x="" y="">com.squareup.okhttp3:okhttp:jar:3.9.1/com.squareup.okio:okio:jar:1.13.0</node>
-            <node x="" y="">com.alibaba:fastjson:jar:1.2.30</node>
-            <node x="" y="">commons-io:commons-io:jar:2.6</node>
-            <node x="" y="">org.apache.commons:commons-lang3:jar:3.6</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.1.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-test:jar:2.0.1.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:2.0.1.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.1.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.1.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.1.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.1.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2/org.ow2.asm:asm:jar:5.0.4</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.1.RELEASE/junit:junit:jar:4.12</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.1.RELEASE/org.assertj:assertj-core:jar:3.9.1</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.1.RELEASE/org.mockito:mockito-core:jar:2.15.0</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.1.RELEASE/org.mockito:mockito-core:jar:2.15.0/net.bytebuddy:byte-buddy:jar:1.7.11</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.1.RELEASE/org.mockito:mockito-core:jar:2.15.0/net.bytebuddy:byte-buddy-agent:jar:1.7.11</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.1.RELEASE/org.mockito:mockito-core:jar:2.15.0/org.objenesis:objenesis:jar:2.6</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.1.RELEASE/org.hamcrest:hamcrest-core:jar:1.3</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.1.RELEASE/org.hamcrest:hamcrest-library:jar:1.3</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.1.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.1.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0/com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.1.RELEASE/org.springframework:spring-test:jar:5.0.5.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.1.RELEASE/org.xmlunit:xmlunit-core:jar:2.5.1</node>
-            <node x="" y="">com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.4</node>
-            <node x="" y="">com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.4/com.github.pagehelper:pagehelper-spring-boot-autoconfigure:jar:1.2.4</node>
-            <node x="" y="">com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.4/com.github.pagehelper:pagehelper:jar:5.1.3</node>
-            <node x="" y="">com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.4/com.github.pagehelper:pagehelper:jar:5.1.3/com.github.jsqlparser:jsqlparser:jar:1.0</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-data-mongodb:jar:2.0.1.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-data-mongodb:jar:2.0.1.RELEASE/org.mongodb:mongodb-driver:jar:3.6.3</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-data-mongodb:jar:2.0.1.RELEASE/org.mongodb:mongodb-driver:jar:3.6.3/org.mongodb:bson:jar:3.6.3</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-data-mongodb:jar:2.0.1.RELEASE/org.mongodb:mongodb-driver:jar:3.6.3/org.mongodb:mongodb-driver-core:jar:3.6.3</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.1.RELEASE</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-context:jar:2.0.1.RELEASE</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.1.RELEASE/org.springframework.security:spring-security-rsa:jar:1.0.5.RELEASE</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-core:jar:2.0.1.RELEASE</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-client:jar:2.0.1.RELEASE</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.3</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.3/org.codehaus.jettison:jettison:jar:1.3.7</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.3/org.codehaus.jettison:jettison:jar:1.3.7/stax:stax-api:jar:1.0.1</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.3/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.3/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.3/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0/commons-jxpath:commons-jxpath:jar:1.3</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.3/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0/joda-time:joda-time:jar:2.9.9</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.3/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0/org.antlr:antlr-runtime:jar:3.4</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.3/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0/org.antlr:antlr-runtime:jar:3.4/org.antlr:stringtemplate:jar:3.2.1</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.3/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0/com.google.code.gson:gson:jar:2.8.2</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.3/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/org.apache.commons:commons-math:jar:2.2</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.3/com.netflix.archaius:archaius-core:jar:0.7.6</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.3/javax.ws.rs:jsr311-api:jar:1.1.1</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.3/com.netflix.servo:servo-core:jar:0.12.21</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.3/com.sun.jersey:jersey-core:jar:1.19.1</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.3/com.sun.jersey:jersey-client:jar:1.19.1</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.3/com.sun.jersey.contribs:jersey-apache-client4:jar:1.19.1</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.3/com.google.inject:guice:jar:4.1.0</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.3/com.google.inject:guice:jar:4.1.0/javax.inject:javax.inject:jar:1</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.3/com.google.inject:guice:jar:4.1.0/aopalliance:aopalliance:jar:1.0</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.3/com.github.vlsi.compactmap:compactmap:jar:1.2.1</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.3/com.github.vlsi.compactmap:compactmap:jar:1.2.1/com.github.andrewoma.dexx:dexx-collections:jar:0.2</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.3/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.3/com.fasterxml.jackson.core:jackson-core:jar:2.9.5</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.netflix.eureka:eureka-core:jar:1.9.3</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.netflix.eureka:eureka-core:jar:1.9.3/org.codehaus.woodstox:woodstox-core-asl:jar:4.4.1</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.netflix.eureka:eureka-core:jar:1.9.3/org.codehaus.woodstox:woodstox-core-asl:jar:4.4.1/javax.xml.stream:stax-api:jar:1.0-2</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.netflix.eureka:eureka-core:jar:1.9.3/org.codehaus.woodstox:woodstox-core-asl:jar:4.4.1/org.codehaus.woodstox:stax2-api:jar:3.1.4</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-archaius:jar:2.0.1.RELEASE</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-archaius:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-ribbon:jar:2.0.1.RELEASE</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-archaius:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-archaius:jar:2.0.1.RELEASE</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-archaius:jar:2.0.1.RELEASE/commons-configuration:commons-configuration:jar:1.8</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-archaius:jar:2.0.1.RELEASE/commons-configuration:commons-configuration:jar:1.8/commons-lang:commons-lang:jar:2.6</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.1.RELEASE</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.5</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.5/com.netflix.ribbon:ribbon-transport:jar:2.2.5</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.5/com.netflix.ribbon:ribbon-transport:jar:2.2.5/io.reactivex:rxnetty-contexts:jar:0.4.9</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.5/com.netflix.ribbon:ribbon-transport:jar:2.2.5/io.reactivex:rxnetty-servo:jar:0.4.9</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.5/io.reactivex:rxnetty:jar:0.4.9</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.5/io.reactivex:rxnetty:jar:0.4.9/io.netty:netty-codec-http:jar:4.1.23.Final</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.5/io.reactivex:rxnetty:jar:0.4.9/io.netty:netty-codec-http:jar:4.1.23.Final/io.netty:netty-codec:jar:4.1.23.Final</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.5/io.reactivex:rxnetty:jar:0.4.9/io.netty:netty-transport-native-epoll:jar:4.1.23.Final</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.5/io.reactivex:rxnetty:jar:0.4.9/io.netty:netty-transport-native-epoll:jar:4.1.23.Final/io.netty:netty-common:jar:4.1.23.Final</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.5/io.reactivex:rxnetty:jar:0.4.9/io.netty:netty-transport-native-epoll:jar:4.1.23.Final/io.netty:netty-buffer:jar:4.1.23.Final</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.5/io.reactivex:rxnetty:jar:0.4.9/io.netty:netty-transport-native-epoll:jar:4.1.23.Final/io.netty:netty-transport-native-unix-common:jar:4.1.23.Final</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.5/io.reactivex:rxnetty:jar:0.4.9/io.netty:netty-transport-native-epoll:jar:4.1.23.Final/io.netty:netty-transport:jar:4.1.23.Final</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.5/io.reactivex:rxnetty:jar:0.4.9/io.netty:netty-transport-native-epoll:jar:4.1.23.Final/io.netty:netty-transport:jar:4.1.23.Final/io.netty:netty-resolver:jar:4.1.23.Final</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.1.RELEASE/com.netflix.ribbon:ribbon-core:jar:2.2.5</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.1.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.2.5</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.1.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.2.5/commons-collections:commons-collections:jar:3.2.2</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.1.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.2.5/com.netflix.netflix-commons:netflix-commons-util:jar:0.3.0</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.1.RELEASE/com.netflix.ribbon:ribbon-loadbalancer:jar:2.2.5</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.1.RELEASE/com.netflix.ribbon:ribbon-loadbalancer:jar:2.2.5/com.netflix.netflix-commons:netflix-statistics:jar:0.1.1</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.1.RELEASE/io.reactivex:rxjava:jar:1.3.8</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.netflix.ribbon:ribbon-eureka:jar:2.2.5</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.thoughtworks.xstream:xstream:jar:1.4.10</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.thoughtworks.xstream:xstream:jar:1.4.10/xmlpull:xmlpull:jar:1.1.3.1</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.1.RELEASE/com.thoughtworks.xstream:xstream:jar:1.4.10/xpp3:xpp3_min:jar:1.1.4c</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-ribbon:jar:unknown</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.0.1.RELEASE</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-openfeign-core:jar:2.0.1.RELEASE</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-commons:jar:2.0.1.RELEASE</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.0.1.RELEASE/io.github.openfeign:feign-core:jar:9.5.1</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.0.1.RELEASE/io.github.openfeign:feign-slf4j:jar:9.5.1</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.0.1.RELEASE/io.github.openfeign:feign-hystrix:jar:9.5.1</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.0.1.RELEASE/io.github.openfeign:feign-hystrix:jar:9.5.1/com.netflix.hystrix:hystrix-core:jar:1.5.12</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.0.1.RELEASE/io.github.openfeign:feign-hystrix:jar:9.5.1/com.netflix.hystrix:hystrix-core:jar:1.5.12/org.hdrhistogram:HdrHistogram:jar:2.1.9</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.0.1.RELEASE/io.github.openfeign:feign-java8:jar:9.5.1</node>
-            <node x="" y="">com.netflix.feign:feign-okhttp:jar:8.18.0</node>
-            <node x="" y="">com.netflix.feign:feign-okhttp:jar:8.18.0/com.netflix.feign:feign-core:jar:8.18.0</node>
-            <node x="" y="">com.netflix.feign:feign-okhttp:jar:8.18.0/com.netflix.feign:feign-core:jar:8.18.0/org.jvnet:animal-sniffer-annotation:jar:1.0</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="0.8454825251350803" x="6877.159094953809" y="330.0959407206068" />
-          <SelectedNodes />
-          <Categories />
-          <VISIBILITY>All</VISIBILITY>
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/ManageCourseApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xc-service-manage-course/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="96" selection-start-line="96" selection-end-line="99" selection-end-column="25" />
+        <state relative-caret-position="182">
+          <caret line="116" selection-start-line="116" selection-end-line="120" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-search/pom.xml">
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-330">
-          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+        <state relative-caret-position="330">
+          <caret line="72" column="21" selection-start-line="72" selection-start-column="21" selection-end-line="72" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-search/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/config/ResourceServerConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <caret line="84" column="29" lean-forward="true" selection-start-line="84" selection-start-column="29" selection-end-line="84" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-search/src/main/java/com/xuecheng/search/config/ElasticsearchConfig.java">
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/resources/publickey.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="44" column="47" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="47" />
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-search/src/main/java/com/xuecheng/search/SearchApplication.java">
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/client/CmsPageClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        <state relative-caret-position="66">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-search/src/test/java/com/xuecheng/search/TestIndex.java">
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/service/CourseService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5">
-          <caret line="205" column="10" lean-forward="true" selection-start-line="205" selection-start-column="10" selection-end-line="205" selection-end-column="10" />
+        <state relative-caret-position="-65">
+          <caret line="77" column="18" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE.jar!/org/springframework/web/client/RestTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="53" column="13" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/service/AuthService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="128" selection-start-line="128" selection-end-line="153" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/config/ResourceServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="86" column="26" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/exception/ExceptionCast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/CmsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="57" column="26" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/controller/CourseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="196" selection-start-line="196" selection-end-line="196" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/controller/CmsPageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/service/PageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="255" selection-start-line="255" selection-end-line="255" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-order/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-462">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-learning/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/dao/XcLearningCourseRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/dao/XcTaskHisRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/TeachplanMediaPub.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/client/CourseSearchClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#testCreateIndex#0;class#TestIndex#0" />
-            <element signature="method#testDeleteIndex#0;class#TestIndex#0" />
-            <element signature="method#testAddDoc#0;class#TestIndex#0" />
-            <element signature="method#getDoc#0;class#TestIndex#0" />
-            <element signature="method#updateDoc#0;class#TestIndex#0" />
-            <element signature="method#testDelDoc#0;class#TestIndex#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/learning/respones/LearningCode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/learning/CourseLearningControllerApi.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-learning/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="35" column="42" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/controller/CourseLearningController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/service/LearningService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="102" column="43" selection-start-line="102" selection-start-column="43" selection-end-line="102" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getmedia#0;class#LearningService#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/dao/XcTaskRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="55" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/mq/ChooseCourseTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="48" column="51" lean-forward="true" selection-start-line="48" selection-start-column="51" selection-end-line="48" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/dao/XcTaskHisRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/LearningApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/config/RabbitMQConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/config/AsyncTaskConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="45" column="44" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/ManageOrderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/service/TaskService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="68" column="56" selection-start-line="68" selection-start-column="46" selection-end-line="68" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/config/RabbitMQConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="20" column="81" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/service/ChooseCourseTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="61" column="31" lean-forward="true" selection-start-line="61" selection-start-column="31" selection-end-line="61" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-govern-gateway/pom_docker.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1495,7 +1441,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>xc-service-search</last-edited>
+          <last-edited>xc-service-learning</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1519,11 +1465,22 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <last-edited>Maven: org.springframework.security.oauth:spring-security-oauth2:2.2.1.RELEASE</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.34282807" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.45747125" />
               </list>
             </option>
           </splitter-proportions>

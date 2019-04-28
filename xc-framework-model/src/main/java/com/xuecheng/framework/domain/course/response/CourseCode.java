@@ -20,7 +20,8 @@ public enum CourseCode implements ResultCode {
     COURSE_FIND_NOTEXIST(false,31006,"课程信息不存在！"),
     COURSE_MEDIS_URLISNULL(false,31101,"选择的媒资文件访问地址为空！"),
     COURSE_MEDIS_NAMEISNULL(false,31102,"选择的媒资文件名称为空！"),
-    COURSE_GET_NOTEXISTS(false,31103,"课程信息不存在！");
+    COURSE_GET_NOTEXISTS(false,31103,"课程信息不存在！"),
+    COURSE_PUBLISH_CREATE_INDEX_ERROR(false,31104,"创建课程索引信息失败！");
 
     //操作代码
     @ApiModelProperty(value = "操作是否成功", example = "true", required = true)

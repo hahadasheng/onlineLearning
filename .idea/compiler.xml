@@ -13,12 +13,17 @@
         <module name="xc-framework-model" />
         <module name="xc-framework-utils" />
         <module name="xc-govern-center" />
+        <module name="xc-govern-gateway" />
         <module name="xc-service-api" />
         <module name="xc-service-base-filesystem" />
+        <module name="xc-service-learning" />
         <module name="xc-service-manage-cms" />
         <module name="xc-service-manage-cms-client" />
         <module name="xc-service-manage-course" />
+        <module name="xc-service-manage-order" />
         <module name="xc-service-search" />
+        <module name="xc-service-ucenter" />
+        <module name="xc-service-ucenter-auth" />
         <module name="xc-test-freemarker" />
       </profile>
     </annotationProcessing>
@@ -31,13 +36,18 @@
       <module name="xc-framework-parent" target="1.8" />
       <module name="xc-framework-utils" target="1.8" />
       <module name="xc-govern-center" target="1.8" />
+      <module name="xc-govern-gateway" target="1.8" />
       <module name="xc-rabbitmq-producer" target="1.8" />
       <module name="xc-service-api" target="1.8" />
       <module name="xc-service-base-filesystem" target="1.8" />
+      <module name="xc-service-learning" target="1.8" />
       <module name="xc-service-manage-cms" target="1.8" />
       <module name="xc-service-manage-cms-client" target="1.8" />
       <module name="xc-service-manage-course" target="1.8" />
+      <module name="xc-service-manage-order" target="1.8" />
       <module name="xc-service-search" target="1.8" />
+      <module name="xc-service-ucenter" target="1.8" />
+      <module name="xc-service-ucenter-auth" target="1.8" />
       <module name="xc-test-freemarker" target="1.8" />
     </bytecodeTargetLevel>
   </component>

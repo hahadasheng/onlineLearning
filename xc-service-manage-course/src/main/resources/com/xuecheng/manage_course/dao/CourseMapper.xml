@@ -9,7 +9,18 @@
             parameterType="com.xuecheng.framework.domain.course.request.CourseListRequest"
             resultType="com.xuecheng.framework.domain.course.ext.CourseInfo">
         SELECT
-            course_base.*,
+            course_base.id id,
+            course_base.name,
+            course_base.users,
+            course_base.mt,
+            course_base.st,
+            course_base.grade,
+            course_base.studymodel,
+            course_base.teachmode,
+            course_base.description,
+            course_base.status,
+            course_base.company_id companyId,
+            course_base.user_id userId,
             pic.pic
         FROM
             course_base
@@ -17,5 +28,10 @@
             course_pic pic
         ON
             course_base.id = pic.courseid
+        where
+            1 = 1
+        <if test="companyId != null and companyId != ''">
+            and company_id = #{companyId}
+        </if>
     </select>
 </mapper>

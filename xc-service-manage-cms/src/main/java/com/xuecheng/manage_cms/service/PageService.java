@@ -11,6 +11,7 @@ import com.xuecheng.framework.domain.cms.request.QueryPageRequest;
 import com.xuecheng.framework.domain.cms.response.CmsCode;
 import com.xuecheng.framework.domain.cms.response.CmsPageResult;
 import com.xuecheng.framework.domain.cms.response.CmsPostPageResult;
+import com.xuecheng.framework.domain.ucenter.response.AuthCode;
 import com.xuecheng.framework.exception.ExceptionCast;
 import com.xuecheng.framework.model.response.CommonCode;
 import com.xuecheng.framework.model.response.QueryResponseResult;
@@ -32,17 +33,21 @@ import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.data.mongodb.core.query.Query;
 import org.springframework.data.mongodb.gridfs.GridFsResource;
 import org.springframework.data.mongodb.gridfs.GridFsTemplate;
+import org.springframework.http.HttpEntity;
+import org.springframework.http.HttpMethod;
 import org.springframework.http.ResponseEntity;
+import org.springframework.http.client.ClientHttpResponse;
 import org.springframework.stereotype.Service;
 import org.springframework.ui.freemarker.FreeMarkerTemplateUtils;
+import org.springframework.util.LinkedMultiValueMap;
+import org.springframework.util.MultiValueMap;
+import org.springframework.web.client.DefaultResponseErrorHandler;
 import org.springframework.web.client.RestTemplate;
 
+import javax.servlet.http.HttpServletRequest;
 import java.io.IOException;
 import java.io.InputStream;
-import java.util.Date;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Optional;
+import java.util.*;
 
 @Service
 public class PageService {
@@ -67,6 +72,8 @@ public class PageService {
 
     @Autowired
     private SiteService siteService;
+
+    @Autowired HttpServletRequest request;
 
     /**
      * 页面列表分页查询
@@ -292,8 +299,26 @@ public class PageService {
             ExceptionCast.cast(CmsCode.CMS_GENERATEHTML_DATAURLISNULL);
         }
 
-        // 根据rul请求数据
-        ResponseEntity<Map> forEntity = restTemplate.getForEntity(dataUrl, Map.class);
+        // 根据rul请求数据，需要使用令牌
+        Enumeration<String> headerNames = request.getHeaderNames();
+
+        // 定义header
+        LinkedMultiValueMap<String, String> header = new LinkedMultiValueMap<>();
+
+        if (headerNames != null) {
+            while (headerNames.hasMoreElements()) {
+                String name = headerNames.nextElement();
+                String value = request.getHeader(name);
+                header.add(name, value);
+            }
+        }
+
+        // header.add("Authorization", httpBasic(clientId, clientSecret));
+        // ResponseEntity<Map> forEntity = restTemplate.getForEntity(dataUrl, Map.class);
+
+        // HTTP请求spring security的申请令牌接口
+        ResponseEntity<Map> forEntity = restTemplate.exchange(dataUrl, HttpMethod.GET, new HttpEntity<MultiValueMap<String, String>>(null, header), Map.class);
+
         Map body = forEntity.getBody();
         return body;
     }
